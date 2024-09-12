@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Software Engineering Master Degree Student @ <a href="https://corsi.unisa.it/informatica-magistrale"> University of Salerno </a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_tensa.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>My Github profile pic</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello everyone!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Linux and FOSS enthusiast. My main field in CS is Software Engineering, but I am also interested in Information Security and Artificial Intelligence.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently pursuing a Master Degree in Software Engineering and IT Management at University of Salerno, where I've also completed a Bachelor Degree in Computer Science.
+
+Apart from my name, you can find me somewhere online with the nickname of Tensa53.
+
+Tensa Zangetsu is the Zanpakuto spirit of Ichigo, the protagonist of the anime Bleach. I really liked a lot this show when I was younger, so I decided to pick this one as my username. Sometimes I also use Tensa as my profile pic (look on your right).
+
+Talking about the 53, this is the number I use the most when I'm playing organized basketball in a team. I've been using this one since I was a kid.
+
+If you want to reach me out, for more formal conversations you can send a mail or a message on LinkedIn. Otherwise, you can contact me on Telegram.
