@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tensa53.github.io//sitemap.xml
+Sitemap: https://tensa53.github.io/sitemap.xml
