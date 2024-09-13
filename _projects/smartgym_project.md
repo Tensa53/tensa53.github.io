@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-importance: 3
+title: SmartGym
+description: An Android prototypal mobile app where you can choose some body weight exercises.
+img: assets/img/smartgym_logo.png
+importance: 5
 ---
 
 Every project has a beautiful feature showcase page.

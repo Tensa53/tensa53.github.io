@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: ArchiVehicle
+description: A very simple form-based web-app where you can manage vehicles info.
+img: assets/img/archivehicle_logo.png
 importance: 2
 ---
 

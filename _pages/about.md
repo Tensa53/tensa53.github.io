@@ -24,7 +24,7 @@ I am currently pursuing a Master Degree in Software Engineering and IT Managemen
 
 Apart from my name, you can find me somewhere online with the nickname of Tensa53.
 
-Tensa Zangetsu is the Zanpakuto spirit of Ichigo, the protagonist of the anime Bleach. I really liked a lot this show when I was younger, so I decided to pick this one as my username. Sometimes I also use Tensa as my profile pic (look on your right).
+Tensa Zangetsu is the Zanpakuto spirit of Ichigo, the protagonist of the anime Bleach. I really liked a lot this show when I was younger, so I decided to pick this one as my username. Sometimes I also use Tensa as my profile pic (look the image).
 
 Talking about the 53, this is the number I use the most when I'm playing organized basketball in a team. I've been using this one since I was a kid.
 
