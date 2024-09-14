@@ -48,7 +48,7 @@ Artificial Intelligence (SE4AI) classes. During the maintenance we have mainly c
     </div>
 </div>
 <div class="caption">
-    The screencapture of the new results page and the frontmatter of the documentation.
+    The screenshot of the new results page and the frontmatter of the documentation.
 </div>
 
 Aside from the tool, for this project we have the following deliverables:

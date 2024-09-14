@@ -44,7 +44,7 @@ If you don't know which vehicle to search, you can explore all the vehicles cata
     </div>
 </div>
 <div class="caption">
-    The screencapture of the stats page and the frontmatter of the documentation.
+    The screenshot of the stats page and the frontmatter of the documentation.
 </div>
 
 Aside from the webapplication, for this project we have the following deliverables:
