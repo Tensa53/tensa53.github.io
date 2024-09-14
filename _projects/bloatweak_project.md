@@ -2,7 +2,7 @@
 layout: page
 title: BloatWeak
 description: A tool that finds bloated dependencies affected by known vulnerabilities in Python projects.
-img: assets/img/bloatweak_logo.png
+img: assets/img/bloatweak/logo/bloatweak_logo.png
 importance: 4
 ---
 

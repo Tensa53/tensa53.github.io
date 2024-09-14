@@ -2,7 +2,7 @@
 layout: page
 title: Commons-net Dependability
 description: A dependability report for a famous open source library of the Apache Commons project.
-img: assets/img/commons_logo.png
+img: assets/img/commons/logo/commons_logo.png
 importance: 3
 ---
 

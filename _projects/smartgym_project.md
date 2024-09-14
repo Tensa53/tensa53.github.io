@@ -2,7 +2,7 @@
 layout: page
 title: SmartGym
 description: An Android prototypal mobile app where you can choose some body weight exercises.
-img: assets/img/smartgym_logo.png
+img: assets/img/smartgym/logo/smartgym_logo.png
 importance: 5
 ---
 
