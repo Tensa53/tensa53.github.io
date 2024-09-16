@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineering Master Degree Student @ <a href="https://corsi.unisa.it/informatica-magistrale"> University of Salerno </a>
+subtitle: Software Engineering Master Degree Student @ <a href="https://unisa.it"> University of Salerno </a>
 
 profile:
   align: right

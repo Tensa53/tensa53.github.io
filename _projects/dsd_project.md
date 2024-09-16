@@ -6,7 +6,7 @@ img: assets/img/dsd/logo/dsd_logo.png
 importance: 1
 ---
 
-<a href="https://github.com/CpDant/DSD-plus"> Data Smell Detection+ </a> (DSD+) is based on the open-source data validation tool Great Expectations and 
+<a href="https://github.com/CpDant/DSD-plus">Data Smell Detection+</a> (DSD+) is based on the open-source data validation tool Great Expectations and 
 it uses rule-based techniques for detecting smells by analyzing a dataset.
 
 The main functionalities of this tool are:

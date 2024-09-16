@@ -52,4 +52,10 @@ Overall during this analysis we have completed some activities:
     The screenshot of SonarCloud analysis after completing the activities and the frontmatter of the documentation.
 </div>
 
+For this project, we also have the following deliverables:
+- **Documentation (In English)**: In this documentation we explain with more detail all the step described here and show the use of other tools;
+- **Generated Test Cases**: All the generated test cases were saved but not directly integrated inside the project, but they are freely viewable;
+
+This project was realized for the Software Dependability Class. 
+
 You can find any other information for this project on the dedicated GitHub repository.

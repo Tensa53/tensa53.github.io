@@ -52,4 +52,6 @@ Aside from the webapplication, for this project we have the following deliverabl
 - **Datasets**: All the datasets used for this project, one for each entity (vehicles and manufacturers);
 - **Notebooks**: Starting from the dataset, we have made some operations of cleaning thanks to the pandas library.
 
+This project was realized for the Database II Class.
+
 You can find any other information for this project on the dedicated GitHub repository.
