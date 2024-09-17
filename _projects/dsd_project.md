@@ -3,6 +3,7 @@ layout: page
 title: Data Smell Detection+
 description: A simulation of a maintenance activity for a tool that finds data smells on an uploaded dataset.
 img: assets/img/dsd/logo/dsd_logo.png
+category: master degree classes
 importance: 1
 ---
 
@@ -57,5 +58,8 @@ such as Reengineering, Impact Analysis, Software Testing;
 - **SE4AI Documentation (in English)**: In this documentation we mainly gave focus on the more technical aspects of the goal of the original tool, 
 such as describing what is a data smell and a data quality dimension, which datasets can be used to try the tool, what are the future works for
 other improvement on this tool.
+
+For this project I've collaborated with <a href="https://github.com/CPDant">CPDant</a> and <a href="https://github.com/adriano22jr">adriano22jr</a>.
+
 
 You can find any other information for this project on the dedicated GitHub repository.

@@ -3,6 +3,7 @@ layout: page
 title: Commons-net Dependability
 description: A dependability report for a famous open source library of the Apache Commons project.
 img: assets/img/commons/logo/commons_logo.png
+category: master degree classes
 importance: 3
 ---
 
@@ -56,6 +57,6 @@ For this project, we also have the following deliverables:
 - **Documentation (In English)**: In this documentation we explain with more detail all the step described here and show the use of other tools;
 - **Generated Test Cases**: All the generated test cases were saved but not directly integrated inside the project, but they are freely viewable;
 
-This project was realized for the Software Dependability Class. 
+This project was realized for the Software Dependability Class and I've collaborated with <a href="https://github.com/FraPCA">FraPCA</a>.
 
 You can find any other information for this project on the dedicated GitHub repository.

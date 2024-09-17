@@ -3,6 +3,7 @@ layout: page
 title: ArchiVehicle
 description: A very simple form-based web-app where you can manage vehicles info.
 img: assets/img/archivehicle/logo/archivehicle_logo.png
+category: master degree classes
 importance: 2
 ---
 
