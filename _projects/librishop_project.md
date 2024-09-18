@@ -7,7 +7,7 @@ category: bachelor degree classes
 importance: 6
 ---
 
-<a href="https://github.com/Tensa53/LibriShop">SmartGym</a> is a website that simulates an e-commerce platform where you can buy some books.
+<a href="https://github.com/Tensa53/LibriShop">LibriShop</a> is a website that simulates an e-commerce platform where you can buy some books.
 
 The main pages of this website are:
 
