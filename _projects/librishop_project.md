@@ -7,74 +7,52 @@ category: bachelor degree classes
 importance: 6
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<a href="https://github.com/Tensa53/LibriShop">SmartGym</a> is a website that simulates an e-commerce platform where you can buy some books.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The main pages of this website are:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+- **Home Page**: This is the first page you will see when you land on the website. Here you can see a carousel of books and search for a specific one;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/librishop/screen/librishop_screen1.png" title="home image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- **Book Page**: When you've picked a book, you can visit its dedicated page where you can view some other details about the book;
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/librishop/screen/librishop_screen2.png" title="book image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+- **Shopping Cart Page**: If you're sure that you want to buy that book, you can add it to the shopping cart and proceed confirming the order.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/librishop/screen/librishop_screen3.png" title="cart image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+After you've completed the purchase of a book, you can review your order and eventually undo the order. For a complete experience on the shop, you can also
+- **Edit your profile info**: In order to complete an order, you have to create an account and later you can also edit your info;
+- **Add/Edit a delivery address and a payment method**: With the idea of simulating an e-commerce platform, when you do an order you can also have to specify 
+the delivery address and a payment method or use the ones you've already saved for older orders.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/librishop/screen/librishop_screen4_gresized.png" title="orders image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/librishop/screen/librishop_screendoc.png" title="docs image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The screenshot of the View Orders Page and the frontmatter of the documentation.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Aside from the website, for this project we have the following deliverables:
+- **Project Proposal (in Italian)**: Before starting this project, we had to make a project proposal where we described some details such as the layout of the pages,
+the color scheme and the conceptual scheme of the database.
 
-{% raw %}
+This project was realized for the Web Software Technologies class, and I've collaborated with <a href="https://github.com/mariantonietta-maselli">mariantonietta</a>.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+You can find any other information for this project on the dedicated GitHub repository.
