@@ -14,21 +14,21 @@ The main functionalities of this mobile app are:
 - **Register/Login as an athlete user**: In order to access the functionality of the system, you have to register as an athlete user and then do the login;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/smartgym/screen/smartgym_screen1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/smartgym/screen/smartgym_screen1.png" title="login image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 - **Insert/Edit the athlete info**: After the registration and login, you can edit the info about the login and insert the athletic features;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/smartgym/screen/smartgym_screen2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/smartgym/screen/smartgym_screen2.png" title="athlete image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 - **Create an exercise sheet**: As an athlete user, you can create an exercise sheet and choose which part of your body you want to train.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/smartgym/screen/smartgym_screen3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/smartgym/screen/smartgym_screen3.png" title="exercise image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -39,10 +39,10 @@ There are other functionalities that have not been implemented/integrated but on
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/smartgym/screen/smartgym_screen4_gresized.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/smartgym/screen/smartgym_screen4_gresized.png" title="confirm image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/smartgym/screen/smartgym_screendoc.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/smartgym/screen/smartgym_screendoc.png" title="docs image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

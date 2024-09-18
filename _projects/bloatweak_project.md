@@ -15,7 +15,7 @@ This project combines:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bloatweak/screen/bloatweak_screen1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bloatweak/screen/bloatweak_screen1.png" title="pycd image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -23,7 +23,7 @@ This project combines:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bloatweak/screen/bloatweak_screen2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bloatweak/screen/bloatweak_screen2.png" title="fawltydeps image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -31,7 +31,7 @@ This project combines:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bloatweak/screen/bloatweak_screen3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bloatweak/screen/bloatweak_screen3.png" title="safety image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -42,10 +42,10 @@ So with the combination of these three tools, and given a <a href="https://githu
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bloatweak/screen/bloatweak_screen4_gresized.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/bloatweak/screen/bloatweak_screen4_gresized.png" title="bloatweak image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bloatweak/screen/bloatweak_screendoc.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/bloatweak/screen/bloatweak_screendoc.png" title="docs image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

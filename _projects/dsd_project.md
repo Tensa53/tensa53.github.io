@@ -15,21 +15,21 @@ The main functionalities of this tool are:
 - **Upload a file**: In order to correct compute the results, the dataset to be uploaded has to be a .csv file;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dsd/screen/dsd_screen1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dsd/screen/dsd_screen1.png" title="upload image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 - **Customize the detection**: You can customize the detection, setting the desired data smells and other parameters;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dsd/screen/dsd_screen2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dsd/screen/dsd_screen2.png" title="customization image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 - **View the result of the analysis**: After the analysis is complete, you can display the results by columns.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dsd/screen/dsd_screen3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dsd/screen/dsd_screen3.png" title="result image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -42,10 +42,10 @@ Artificial Intelligence (SE4AI) classes. During the maintenance we have mainly c
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/dsd/screen/dsd_screen4_gresized.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/dsd/screen/dsd_screen4_gresized.png" title="new result image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/dsd/screen/dsd_screendoc.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/dsd/screen/dsd_screendoc.png" title="docs image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
