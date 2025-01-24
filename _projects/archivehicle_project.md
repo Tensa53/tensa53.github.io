@@ -4,7 +4,7 @@ title: ArchiVehicle
 description: A very simple form-based web-app where you can manage vehicles info.
 img: assets/img/archivehicle/logo/archivehicle_logo.png
 category: master degree classes
-importance: 2
+importance: 4
 ---
 
 <a href="https://github.com/Tensa53/archivehicle">ArchiVehicle</a> aims to simplify and digitalize the information management about a vehicle park,

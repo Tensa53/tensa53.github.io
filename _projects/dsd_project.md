@@ -4,7 +4,7 @@ title: Data Smell Detection+
 description: A simulation of a maintenance activity for a tool that finds data smells on an uploaded dataset.
 img: assets/img/dsd/logo/dsd_logo.png
 category: master degree classes
-importance: 1
+importance: 2
 ---
 
 <a href="https://github.com/CpDant/DSD-plus">Data Smell Detection+</a> (DSD+) is based on the open-source data validation tool Great Expectations and 
