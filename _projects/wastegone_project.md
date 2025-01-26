@@ -48,9 +48,9 @@ With all the task and activities defined for every project's phase, we conduct:
 </div>
 
 Aside from the management process, for this project we have also:
-- **Management Documentation**: The documentation for the management described the considered knowledge areas on the different process groups, such as budget,
+- **Management Documentation (in Italian)**: The documentation for the management described the considered knowledge areas on the different process groups, such as budget,
 schedule, scope, task assignments, meetings, risks. In order to integrate everything together, we also produced a project charter;
-- **Product Documentation**: The documentation for the product described all the phases of a typical software development life cycle, 
+- **Product Documentation (in Italian)**: The documentation for the product described all the phases of a typical software development life cycle, 
 from the requirements elicitation to the testing;
 - **Prototype app**: In order to complete the tasks related to implementation and testing, the dev team also developed a prototype for the requirements with the
 highest priority, through a well-defined set of guidelines for code writing and documentation.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LibriShop
-description: An e-commerce website like where you can simulate buying book from a catalog.
+description: An e-commerce website like where you can simulate buying books from a catalog.
 img: assets/img/librishop/logo/librishop_logo.png
 category: bachelor degree classes
 importance: 6
