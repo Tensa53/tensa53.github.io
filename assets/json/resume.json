@@ -43,39 +43,25 @@
       "name": "Office Suites",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Microsoft Office",
-        "Google Docs",
-        "Libreoffice"
-      ]
+      "keywords": ["Microsoft Office", "Google Docs", "Libreoffice"]
     },
     {
       "name": "Communication Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Teams",
-        "Discord",
-        "Slack"
-      ]
+      "keywords": ["Teams", "Discord", "Slack"]
     },
     {
       "name": "Project Management Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Trello",
-        "GanntProject"
-      ]
+      "keywords": ["Trello", "GanntProject"]
     },
     {
       "name": "Diagramming Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "draw.io",
-        "Visual Paradigm Online"
-      ]
+      "keywords": ["draw.io", "Visual Paradigm Online"]
     },
     {
       "name": "Programming and Markup Languages",
@@ -95,74 +81,53 @@
       "name": "Integrated Development Environment",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "JetBrains IDEs",
-        "Eclipse & Netbeans"
-      ]
+      "keywords": ["JetBrains IDEs", "Eclipse & Netbeans"]
     },
     {
       "name": "Database Management Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "SQL & MySQL Workbench",
-        "Firebase",
-        "MongoDB & Compass"
-      ]
+      "keywords": ["SQL & MySQL Workbench", "Firebase", "MongoDB & Compass"]
     },
     {
       "name": "Operating Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Linux",
-        "Windows",
-        "Android"
-      ]
+      "keywords": ["Linux", "Windows", "Android"]
     },
     {
       "name": "Versioning Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git & Github"
-      ]
+      "keywords": ["Git & Github"]
     },
     {
       "name": "Other Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Software Measurement",
-        "Software Testing",
-        "Computer Networking"
-      ]
+      "keywords": ["Software Measurement", "Software Testing", "Computer Networking"]
     }
   ],
   "interests": [
     {
       "name": "Motorsport",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Basketball",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Videogames",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Anime&Manga",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ]
 }
