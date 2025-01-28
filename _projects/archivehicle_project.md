@@ -34,6 +34,7 @@ The main functionalities of this web-appliaction are:
 </div>
 
 If you don't know which vehicle to search, you can explore all the vehicles cataloge in the Vehicles Page. ArchVehicle also offer this functionality:
+
 - **Manufacturer Stats**: You can display the number of vehicle for each manufacturer, filter by different features.
 
 <div class="row justify-content-sm-center">
@@ -49,6 +50,7 @@ If you don't know which vehicle to search, you can explore all the vehicles cata
 </div>
 
 Aside from the webapplication, for this project we have the following deliverables:
+
 - **Documentation (Both in Italian and English)**: In this documentation, we describe all the activity made in order to obtain the sample of the database used;
 - **Datasets**: All the datasets used for this project, one for each entity (vehicles and manufacturers);
 - **Notebooks**: Starting from the dataset, we have made some operations of cleaning thanks to the pandas library.

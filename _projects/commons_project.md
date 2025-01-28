@@ -37,6 +37,7 @@ The main activity we have completed are:
 </div>
 
 Overall during this analysis we have completed some activities:
+
 - **Bug fixing and Code Smells**: We implemented some quick fix to solve some bugs and also removed some code smells;
 - **Vulnerability assessment**: We checked some of the spotted vulnerabilities and decided how to deal with them;
 - **Coverage improvement**: We used some tools to generate new test cases and try to increase coverage.
@@ -54,6 +55,7 @@ Overall during this analysis we have completed some activities:
 </div>
 
 For this project, we also have the following deliverables:
+
 - **Documentation (In English)**: In this documentation we explain with more detail all the step described here and show the use of other tools;
 - **Generated Test Cases**: All the generated test cases were saved but not directly integrated inside the project, but they are freely viewable;
 

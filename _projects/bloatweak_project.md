@@ -11,7 +11,7 @@ importance: 4
 
 This project combines:
 
-- **<a href="https://github.com/NJUJisq/DS_Python">PyCD</a> Analysis**: We executed the PyCD tool in order to obtain the dependencies list in a convenient format (.csv file); 
+- **<a href="https://github.com/NJUJisq/DS_Python">PyCD</a> Analysis**: We executed the PyCD tool in order to obtain the dependencies list in a convenient format (.csv file);
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,6 +36,7 @@ This project combines:
 </div>
 
 So with the combination of these three tools, and given a <a href="https://github.com/soarsmu/NICHE">dataset</a> of projects to analyze, we were able to observe:
+
 - **Bloated Dependencies**: We analyzed the diffusion of bloated dependencies by checking how many project were affected by this issue;
 - **Software Vulnerabilities**: We analyzed the diffusion of software vulnerabilities by checking how many project were affected by this issue;
 - **Combined Issues**: We analyzed the diffusion of the combination of the two above-mentioned issues by checking the different projects;
@@ -53,6 +54,7 @@ So with the combination of these three tools, and given a <a href="https://githu
 </div>
 
 For this project we have also the following deliverables:
+
 - **Bachelor Degree Thesis (in Italian)**: YES, this project was realized for my graduation. Inside the thesis you can find more details about these topics and some consideration on another possible approach we tried;
 - **Extra Script**: In order to rapidly download all the project, execute the new script and save the results, some extra script have been realized;
 - **Outcome Achieved**: All the initial, intermediate and final results were meticulously grouped in various spreadsheet that are also freely viewable;

@@ -7,7 +7,7 @@ category: master degree classes
 importance: 2
 ---
 
-<a href="https://github.com/CpDant/DSD-plus">Data Smell Detection+</a> (DSD+) is based on the open-source data validation tool Great Expectations and 
+<a href="https://github.com/CpDant/DSD-plus">Data Smell Detection+</a> (DSD+) is based on the open-source data validation tool Great Expectations and
 it uses rule-based techniques for detecting smells by analyzing a dataset.
 
 The main functionalities of this tool are:
@@ -33,9 +33,10 @@ The main functionalities of this tool are:
     </div>
 </div>
 
-We made a contribution for this tool (that's where the '+' comes from) in order to improve it and to simulate a maintenance activity. 
-This project was evaluated for the Software Engineering, Management and Evolution (IGES) and Software Engineering for 
+We made a contribution for this tool (that's where the '+' comes from) in order to improve it and to simulate a maintenance activity.
+This project was evaluated for the Software Engineering, Management and Evolution (IGES) and Software Engineering for
 Artificial Intelligence (SE4AI) classes. During the maintenance we have mainly completed three change requests:
+
 - **Extend the detection suite of the tool**: We added more implementation for the detection of new data smells;
 - **Compute the data quality dimensions**: After computing the results, we also calculated some data quality dimensions;
 - **Improve the results visualization**: We improved the results page, adding graphs and grouping up better the results;
@@ -53,13 +54,13 @@ Artificial Intelligence (SE4AI) classes. During the maintenance we have mainly c
 </div>
 
 Aside from the tool, for this project we have the following deliverables:
-- **IGES Documentation (in Italian)**: In this documentation we mainly gave focus on all the formal aspects of a maintenance activity, 
-such as Reengineering, Impact Analysis, Software Testing;
-- **SE4AI Documentation (in English)**: In this documentation we mainly gave focus on the more technical aspects of the goal of the original tool, 
-such as describing what is a data smell and a data quality dimension, which datasets can be used to try the tool, what are the future works for
-other improvement on this tool.
+
+- **IGES Documentation (in Italian)**: In this documentation we mainly gave focus on all the formal aspects of a maintenance activity,
+  such as Reengineering, Impact Analysis, Software Testing;
+- **SE4AI Documentation (in English)**: In this documentation we mainly gave focus on the more technical aspects of the goal of the original tool,
+  such as describing what is a data smell and a data quality dimension, which datasets can be used to try the tool, what are the future works for
+  other improvement on this tool.
 
 For this project I've collaborated with <a href="https://github.com/CPDant">CPDant</a> and <a href="https://github.com/adriano22jr">adriano22jr</a>.
-
 
 You can find any other information for this project on the dedicated GitHub repository.
