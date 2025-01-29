@@ -6,7 +6,7 @@ subtitle: Software Engineering Master Degree Student @ <a href="https://unisa.it
 
 profile:
   align: right
-  image: prof_pic_tensa.jpg
+  image: about/prof_pic_tensa.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>My Github profile pic</p>
@@ -31,7 +31,7 @@ the protagonist of the anime Bleach. I really liked a lot this show when I was y
 my username. Sometimes I also use Tensa as my profile pic (look the image).
 
 Talking about the 53, this is the number I use the most when
-I'm playing [organized basketball in a team](https://bit.ly/basketball-photo).
+I'm playing [organized basketball in a team](https://tensa53.github.io/assets/img/photo-basketball.jpg).
 I've been using this one since I was a kid.
 
 If you want to reach me out, for more formal conversations you can send a mail or a message on LinkedIn.
