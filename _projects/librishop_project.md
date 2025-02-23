@@ -50,10 +50,12 @@ For a complete experience on the shop, you can also
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/librishop/screen/librishop_screen4_gresized.png" title="orders image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/librishop/screen/librishop_screen4_gresized.png" 
+              title="orders image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/librishop/screen/librishop_screendoc.png" title="docs image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/librishop/screen/librishop_screendoc.png" 
+              title="docs image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

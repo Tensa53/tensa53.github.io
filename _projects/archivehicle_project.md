@@ -4,7 +4,7 @@ title: ArchiVehicle
 description: A very simple form-based web-app where you can manage vehicles info.
 img: assets/img/archivehicle/logo/archivehicle_logo.png
 category: master degree classes
-importance: 4
+importance: 5
 ---
 
 <a href="https://github.com/Tensa53/archivehicle">ArchiVehicle</a> aims to simplify and digitalize the
@@ -57,8 +57,8 @@ ArchVehicle also offer this functionality:
 
 Aside from the webapplication, for this project we have the following deliverables:
 
-- **Documentation (Both in Italian and English)**: In this documentation, we describe all the activity made in order to
-  obtain the sample of the database used;
+- **Documentation (Both in Italian and English)**: In this documentation, we describe all the activities made in order
+  to analyze the dataset;
 - **Datasets**: All the datasets used for this project, one for each entity (vehicles and manufacturers);
 - **Notebooks**: Starting from the dataset, we have made some operations of cleaning thanks to the pandas library.
 

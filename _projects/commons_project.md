@@ -7,10 +7,10 @@ category: master degree classes
 importance: 3
 ---
 
-<a href="https://github.com/Tensa53/commons-net">Commons-net</a> Dependability is analysis that we conduct on this
+<a href="https://github.com/Tensa53/commons-net">Commons-net</a> Dependability is an analysis that we conduct on this
 library in order to improve the dependability properties and more in general the quality of the project.
 
-The main activity we have completed are:
+The main activities we have completed are:
 
 - **Sonarcloud Analysis**: We have executed the Sonarcloud tool in order to obtain the affected issues count about
   the library;
@@ -41,7 +41,7 @@ The main activity we have completed are:
     </div>
 </div>
 
-Overall during this analysis we have completed some activities:
+During this analysis we have also completed some other activities:
 
 - **Bug fixing and Code Smells**: We implemented some quick fix to solve some bugs and also removed some code smells;
 - **Vulnerability assessment**: We checked some of the spotted vulnerabilities and decided how to deal with them;
