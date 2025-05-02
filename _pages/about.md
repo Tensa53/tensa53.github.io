@@ -6,10 +6,10 @@ subtitle: Software Engineering Master Degree Student @ <a href="https://unisa.it
 
 profile:
   align: right
-  image: about/prof_pic_tensa.jpg
+  image: about/linkedin_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>My Github profile pic</p>
+    <p>My Linkedin profile picture</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
