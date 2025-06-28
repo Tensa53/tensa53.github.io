@@ -4,7 +4,7 @@ title: LibriShop
 description: An e-commerce website like where you can simulate buying books from a catalog.
 img: assets/img/librishop/logo/librishop_logo.png
 category: software engineering and management
-importance: 4
+importance: 5
 ---
 
 <a href="https://github.com/Tensa53/LibriShop">LibriShop</a> is a website that simulates an e-commerce platform where

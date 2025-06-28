@@ -4,7 +4,7 @@ title: SmartGym
 description: An Android prototypal mobile app where you can choose some body weight exercises.
 img: assets/img/smartgym/logo/smartgym_logo.png
 category: software engineering and management
-importance: 3
+importance: 4
 ---
 
 <a href="https://github.com/Tensa53/SmartGym">SmartGym</a> aims to simplify the distribution and the access of an
