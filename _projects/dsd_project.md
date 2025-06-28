@@ -3,7 +3,7 @@ layout: page
 title: Data Smell Detection+
 description: A simulation of a maintenance activity for a tool that finds data smells on an uploaded dataset.
 img: assets/img/dsd/logo/dsd_logo.png
-category: master degree classes
+category: software engineering and management
 importance: 2
 ---
 

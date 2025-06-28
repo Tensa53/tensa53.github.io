@@ -3,8 +3,8 @@ layout: page
 title: Phishing Domains
 description: A statistical report on a dataset of suspiscious phishing urls.
 img: assets/img/phishingdomains/logo/phishingdomains_logo.png
-category: master degree classes
-importance: 4
+category: data engineering and analysis
+importance: 1
 ---
 
 <a href="https://github.com/mariantonietta-maselli/Progetto_SAD">Phishing Domains</a> is an analysis that we

@@ -3,7 +3,7 @@ layout: page
 title: WasteGone
 description: A simulation of a management activity for a development of a waste sorting mobile app.
 img: assets/img/wastegone/logo/wastegone_logo.png
-category: master degree classes
+category: software engineering and management
 importance: 1
 ---
 

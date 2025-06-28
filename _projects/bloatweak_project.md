@@ -3,8 +3,8 @@ layout: page
 title: BloatWeak
 description: A tool that finds bloated dependencies affected by known vulnerabilities in Python projects.
 img: assets/img/bloatweak/logo/bloatweak_logo.png
-category: bachelor degree graduation
-importance: 4
+category: degree graduation projects
+importance: 1
 ---
 
 <a href="https://github.com/Tensa53/BloatWeak">BloatWeak</a> has the goal to find bloated dependencies affected by known

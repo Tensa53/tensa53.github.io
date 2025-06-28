@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
-display_categories: [master degree classes, bachelor degree graduation, bachelor degree classes]
+display_categories: [degree graduation projects, software engineering and management, data engineering and analysis]
 horizontal: false
 ---
 

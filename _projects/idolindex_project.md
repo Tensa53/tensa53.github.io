@@ -39,10 +39,10 @@ The process is defined on different phases:
 For this process, other steps are being done:
 
 - **Redundancy Analysis**: The number of access and operations to the different tables are estimated;
-- **Scheme Restructuring**: The database schema is restructured in order to handle hierarchies and multi-value 
-attributes;
-- **Logic Scheme**: A logic scheme is defined to better translate the database design into the specific MySQL DBMS 
-instance.
+- **Scheme Restructuring**: The database schema is restructured in order to handle hierarchies and multi-value
+  attributes;
+- **Logic Scheme**: A logic scheme is defined to better translate the database design into the specific MySQL DBMS
+  instance.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -60,8 +60,8 @@ instance.
 
 Aside from the database design artifacts, for this project we have the following deliverables:
 
-- **Project Presentation(In Italian)**: The presentation hase some details on redundancy analysis and scheme 
-restructuring;
+- **Project Presentation(In Italian)**: The presentation hase some details on redundancy analysis and scheme
+  restructuring;
 - **SQL Scripts**: There are four SQL Scripts related to table creation, data insertion and query operations;
 - **Java Program**: A simple Java Program to try some CRUD operations on a table and execute a query.
 

@@ -3,8 +3,8 @@ layout: page
 title: Commons-net Dependability
 description: A dependability report for a famous open source library of the Apache Commons project.
 img: assets/img/commons/logo/commons_logo.png
-category: master degree classes
-importance: 3
+category: software engineering and management
+importance: 2
 ---
 
 <a href="https://github.com/Tensa53/commons-net">Commons-net</a> Dependability is an analysis that we conduct on this

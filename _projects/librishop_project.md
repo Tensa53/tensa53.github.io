@@ -3,8 +3,8 @@ layout: page
 title: LibriShop
 description: An e-commerce website like where you can simulate buying books from a catalog.
 img: assets/img/librishop/logo/librishop_logo.png
-category: bachelor degree classes
-importance: 6
+category: software engineering and management
+importance: 4
 ---
 
 <a href="https://github.com/Tensa53/LibriShop">LibriShop</a> is a website that simulates an e-commerce platform where
