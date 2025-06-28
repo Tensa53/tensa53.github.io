@@ -1,18 +1,19 @@
 ---
 layout: page
 title: ArchiVehicle
-description: A very simple form-based web-app where you can manage vehicles info.
+description: A data engineering process for the information management of a vehicle park of a car dealer.
 img: assets/img/archivehicle/logo/archivehicle_logo.png
-category: master degree classes
-importance: 5
+category: data engineering and analysis
+importance: 2
 ---
 
 <a href="https://github.com/Tensa53/archivehicle">ArchiVehicle</a> aims to simplify and digitalize the
-information management about a vehicle park, through a graphical user interface served by a client/server architecture.
+information management about a vehicle park, through a data engineering process.
 
-The main functionalities of this web-appliaction are:
+The main steps of this process are:
 
-- **CRUD Operations for Vehicles**: Create, Read, Update, Delete the document of a vehicle's information;
+- **Data Collection**: In order to simulate the vehicle infos, a <a href="https://www.kaggle.com/datasets/kanchana1990
+/vehicle-dataset-2024">dataset</a> from Kaggle has been picked;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/archivehicle/screen/archivehicle_screen1.png" 
@@ -20,7 +21,8 @@ The main functionalities of this web-appliaction are:
     </div>
 </div>
 
-- **CRUD Operations for Manufacturers**: Create, Read, Update, Delete the document of a manufacturer's information;
+- **Data Augmentation**: There were no info about the vehicles manufacturer, so through ChatGPT a new csv dataset has
+been generated with the main info needed;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/archivehicle/screen/archivehicle_screen2.png" 
@@ -28,7 +30,8 @@ The main functionalities of this web-appliaction are:
     </div>
 </div>
 
-- **Search for a specific vehicle**: On the home page, you can search for a vehicle and set some filters.
+- **Data Cleaning**: Given the two datasets, some operations of cleaning, such as removing null values, changing data
+types and renaming columns, have been done with Pandas and Jupyter Notebook.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/archivehicle/screen/archivehicle_screen3.png" 
@@ -36,10 +39,9 @@ The main functionalities of this web-appliaction are:
     </div>
 </div>
 
-If you don't know which vehicle to search, you can explore all the vehicles cataloge in the Vehicles Page.
-ArchVehicle also offer this functionality:
+After all the data cleaning, the two obtained .csv dataset where prepared and used for the:
 
-- **Manufacturer Stats**: You can display the number of vehicle for each manufacturer, filter by different features.
+- **Data Storage**: The datasets have been used to create a No-SQL Database in MongoDB, through the Compass UI
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -55,12 +57,14 @@ ArchVehicle also offer this functionality:
     The screenshot of the stats page and the frontmatter of the documentation.
 </div>
 
-Aside from the webapplication, for this project we have the following deliverables:
+Aside from the data engineering artifacts, for this project we have the following deliverables:
 
 - **Documentation (Both in Italian and English)**: In this documentation, we describe all the activities made in order
   to analyze the dataset;
-- **Datasets**: All the datasets used for this project, one for each entity (vehicles and manufacturers);
-- **Notebooks**: Starting from the dataset, we have made some operations of cleaning thanks to the pandas library.
+- **Json Database**: After the first import of the datasets, for an easy replicability, the database has been exported
+  in a .json format;
+- **WebApplication**: A very simple form-based web-application where you can do CRUD operations on the vehicles and
+  manufacturer information, search and view the vehicles catalog.
 
 This project was realized for the Database II Class.
 
