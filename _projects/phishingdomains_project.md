@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phishing Domains
-description: A statistical report on a dataset of suspiscious phishing urls.
+description: A statistical and data analysis report on a dataset of suspicious phishing urls.
 img: assets/img/phishingdomains/logo/phishingdomains_logo.png
 category: data engineering and analysis
 importance: 1
