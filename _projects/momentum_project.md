@@ -45,7 +45,7 @@ The phases are grouped in:
 
 All the completed practical phases are executed inside a Virtual Box Environment with three machines:
 
-- **<a href="https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-virtualbox-amd64.7z">Kali Linux 2025.1c</a>**:
+- **<a href="https://cdimage.kali.org/">Kali Linux 2025.1c</a>**:
   The latest available version of Kali Linux when the penetration testing activity started;
 - **<a href="https://vulnhub.com/entry/momentum-2,702/">Momentum:2</a>**:The virtual machine downloadable from Vulnhub
   and used as the analyzed asset of this process;
