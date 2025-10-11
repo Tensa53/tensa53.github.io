@@ -46,7 +46,7 @@
       "keywords": ["Java (SE, EE, Android SDK)", "Python (Django, Flask)", "C"]
     },
     {
-      "name": "Database Management Systems",
+      "name": "Query Languages and Databases",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["SQL & MySQL Workbench", "Firebase", "MongoDB & Compass"]
@@ -82,31 +82,19 @@
       "keywords": ["Docker", "VirtualBox"]
     },
     {
-      "name": "Software Testing Tools",
+      "name": "Software Testing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["JUnit", "JaCoCo", "JMH", "Espresso", "Pytest", "SeleniumIDE"]
     },
     {
-      "name": "Data Analytics Tools",
+      "name": "Data Analytics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Pandas", "Matplotlib", "Jupyter Notebook", "R & RStudio"]
     },
     {
-      "name": "Software Engineering",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["UML Diagrams", "Requirements Measurement", "System Design", "Test Plan"]
-    },
-    {
-      "name": "Information Security",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Blockchain Development", "Penetration Testing", "Secure Programming"]
-    },
-    {
-      "name": "Project Management Tools",
+      "name": "Project Management",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Trello", "GanntProject", "Google Workspace", "Slack", "Draw.io"]
