@@ -10,23 +10,23 @@ importance: 1
 <a href="https://github.com/Tensa53/wastegone">WasteGone</a> aims to help the citizens in all the activites related to
 waste sorting.
 
-We manage the development of this app in many different ways:
-
-- **Financial Analysis**: The definition of all project costs and benefits, considering the discount rate and the
-minimum number of years for payback;
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wastegone/screen/wastegone_screen1.png" 
-      title="financial image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+We manage the development of this app with many different tools:
 
 - **Work Breakdown Structure**: A hierarchical decomposition of every project's phase (e.g. implementation) in all task
 and activities needed, with detailed time and cost estimation;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wastegone/screen/wastegone_screen2.png" 
+        {% include figure.liquid loading="eager" path="assets/img/wastegone/screen/wastegone_screen1.png" 
       title="wbs image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+- **Task Assignment**: All the decomposed tasks have been assigned to a specific team member or for some subgroups of
+the team;
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wastegone/screen/wastegone_screen2.png" 
+      title="financial image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
