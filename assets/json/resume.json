@@ -43,13 +43,13 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Java (SE, EE, Android SDK)", "Python (Django, Flask)", "C"]
+      "keywords": ["Java (SE, EE, Android SDK)", "Python (Django, Flask)", "C", "JavaScript"]
     },
     {
       "name": "Query Languages and Databases",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["SQL & MySQL Workbench", "Firebase", "MongoDB & Compass"]
+      "keywords": ["SQL", "Firebase", "MongoDB"]
     },
     {
       "name": "Integrated Development Environment",
@@ -67,7 +67,7 @@
       "name": "Operating Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Linux (Arch, Debian)", "Windows", "Android"]
+      "keywords": ["Linux", "Windows", "Android"]
     },
     {
       "name": "Build Automation Systems",
@@ -91,7 +91,7 @@
       "name": "Data Analytics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Pandas", "Matplotlib", "Jupyter Notebook", "R & RStudio"]
+      "keywords": ["Pandas", "Jupyter Notebook", "R & RStudio"]
     },
     {
       "name": "Project Management",
