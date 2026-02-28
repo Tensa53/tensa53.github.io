@@ -7,7 +7,7 @@ category: data engineering and analysis
 importance: 1
 ---
 
-<a href="https://github.com/mariantonietta-maselli/Progetto_SAD">Phishing Domains</a> is an analysis that we
+<a href="https://github.com/Tensa53/Phishing-Domains">Phishing Domains</a> is an analysis that we
 conduct on the <a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1308634/full">
 dataset</a> in order to analyze some features related to the domains considering different statistical aspects.
 
