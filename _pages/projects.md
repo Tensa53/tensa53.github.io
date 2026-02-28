@@ -6,7 +6,7 @@ description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
 display_categories:
-  [degree graduation projects, software engineering and management, software dependability and security, data engineering and analysis]
+  [software engineering and management, software dependability and security, data engineering and analysis]
 horizontal: false
 ---
 
