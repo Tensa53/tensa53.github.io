@@ -12,16 +12,17 @@
       "institution": "University of Salerno",
       "location": "Fisciano, Italy",
       "url": "https://www.unisa.it/",
-      "area": "Software Engineering and It Management",
-      "studyType": "Master Degree",
-      "startDate": "2023-10-01"
+      "area": "Thesis Project: <a href='https://github.com/Tensa53/IRUPT'>IRUPT</a>",
+      "studyType": "Master Degree in Computer Science - Software Engineering",
+      "startDate": "2023-10-01",
+      "endDate": "2026-03-27"
     },
     {
       "institution": "University of Salerno",
       "location": "Fisciano, Italy",
       "url": "https://www.unisa.it/",
-      "area": "Computer Science",
-      "studyType": "Bachelor Degree",
+      "area": "Thesis Project: <a href='https://github.com/Tensa53/BloatWeak'>BloatWeak</a>",
+      "studyType": "Bachelor Degree in Computer Science",
       "startDate": "2020-09-01",
       "endDate": "2023-09-30"
     }
