@@ -4,14 +4,14 @@
     "label": "Software Engineer",
     "image": "",
     "email": "danielefabiano@protonmail.com",
-    "url": "https://tensa53.github.io/",
+    "url": "https://tensa53.github.io",
     "summary": "Master Degree Student at University of Salerno, currently working on Master Degree Thesis."
   },
   "education": [
     {
       "institution": "University of Salerno",
       "location": "Fisciano, Italy",
-      "url": "https://www.unisa.it/",
+      "url": "https://www.unisa.it",
       "area": "Thesis Project: <a href='https://github.com/Tensa53/IRUPT'>IRUPT</a>",
       "studyType": "Master Degree in Computer Science - Software Engineering",
       "startDate": "2023-10-01",
@@ -20,7 +20,7 @@
     {
       "institution": "University of Salerno",
       "location": "Fisciano, Italy",
-      "url": "https://www.unisa.it/",
+      "url": "https://www.unisa.it",
       "area": "Thesis Project: <a href='https://github.com/Tensa53/BloatWeak'>BloatWeak</a>",
       "studyType": "Bachelor Degree in Computer Science",
       "startDate": "2020-09-01",
