@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineering Master Degree Student @ University of Salerno
+subtitle:
 
 profile:
   align: right
@@ -21,7 +21,7 @@ Hello everyone!
 I am a Linux and FOSS enthusiast. My main field in CS is Software Engineering,
 but I am also interested in Information Security and Artificial Intelligence.
 
-I am pursuing a Master Degree in Software Engineering & IT Management at University of Salerno, where I've also completed a Bachelor Degree in Computer Science.
+I am a former student of the University of Salerno, where I've completed a Master and a Bachelor Degree in Computer Science.
 
 Apart from my name, you can find me somewhere online with the nickname of Tensa53.
 
