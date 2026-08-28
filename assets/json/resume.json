@@ -7,6 +7,23 @@
     "url": "https://tensa53.github.io",
     "summary": ""
   },
+  "work": [
+    {
+      "name": "ReeVo",
+      "url": "https://www.reevo.it",
+      "position": "DevOps Engineer",
+      "location": "Remote",
+      "startDate": "2026-04-07"
+    },
+    {
+      "name": "SeSaLab",
+      "url": "https://sesalabunisa.github.io/en/index.html",
+      "position": "Master Internship",
+      "location": "Remote",
+      "startDate": "2025-07-01",
+      "endDate": "2026-02-28"
+    }
+  ],
   "education": [
     {
       "institution": "University of Salerno",
@@ -27,24 +44,12 @@
       "endDate": "2023-09-30"
     }
   ],
-  "languages": [
-    {
-      "language": "Italian",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English (Certified by <a href='https://tensa53.github.io/assets/pdf/Fabiano_Daniele_B2_English_Certificate.pdf'>CLA UNISA</a>)",
-      "fluency": "Fluent, B2 Level",
-      "icon": ""
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Java (SE, EE, Android SDK)", "Python (Django, Flask)", "C", "JavaScript"]
+      "keywords": ["Java (SE, EE, Android SDK)", "Python (Django, Flask)", "Groovy", "C", "JavaScript"]
     },
     {
       "name": "Query Languages and Databases",
@@ -62,7 +67,7 @@
       "name": "Markup and Style Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["HTML", "CSS (Bootstrap)", "Markdown", "Latex"]
+      "keywords": ["HTML & CSS (Bootstrap)", "XML", "YAML", "Markdown", "Latex"]
     },
     {
       "name": "Operating Systems",
@@ -71,10 +76,10 @@
       "keywords": ["Linux", "Windows", "Android"]
     },
     {
-      "name": "Build Automation Systems",
+      "name": "Automation Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Maven", "Gradle"]
+      "keywords": ["Maven", "Gradle", "Ansible", "Jenkins"]
     },
     {
       "name": "Containers and Virtualization",
@@ -99,6 +104,18 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Trello", "GanntProject", "Google Workspace", "Slack", "Draw.io"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English (Certified by <a href='https://tensa53.github.io/assets/pdf/Fabiano_Daniele_B2_English_Certificate.pdf'>CLA UNISA</a>)",
+      "fluency": "Fluent, B2 Level",
+      "icon": ""
     }
   ],
   "interests": [
