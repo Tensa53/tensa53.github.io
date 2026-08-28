@@ -34,4 +34,4 @@ Talking about the 53, this is the number I use the most when
 I'm playing [organized basketball in a team](https://tensa53.github.io/assets/img/about/photo-basketball.jpg).
 I've been using this one since I was a kid.
 
-If you want to contact me on a formal way, you can send a mail or a message on LinkedIn. Otherwise, you can use Telegram.
+If you want to contact me formally, you can send a mail or a message on LinkedIn. Otherwise, you can use Telegram.
